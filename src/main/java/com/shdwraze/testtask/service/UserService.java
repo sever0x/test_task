@@ -7,7 +7,6 @@ import com.shdwraze.testtask.model.response.FoundUsersResponse;
 import com.shdwraze.testtask.model.response.UpdateUserResponse;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public interface UserService {
 
